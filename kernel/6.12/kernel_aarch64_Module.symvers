@@ -411,6 +411,7 @@
 0x632921ba	cpufreq_this_cpu_can_update	vmlinux	EXPORT_SYMBOL_GPL	
 0x8920950a	sched_feat_names	vmlinux	EXPORT_SYMBOL_GPL	
 0x673d49f7	sched_feat_keys	vmlinux	EXPORT_SYMBOL_GPL	
+0x7b117434	avenrun	vmlinux	EXPORT_SYMBOL	
 0x7da92691	complete	vmlinux	EXPORT_SYMBOL	
 0x7da92691	complete_all	vmlinux	EXPORT_SYMBOL	
 0x7da92691	wait_for_completion	vmlinux	EXPORT_SYMBOL	
