@@ -61,6 +61,14 @@ kernel/drivers/remoteproc/ti_k3_r5_remoteproc.ko
 kernel/drivers/rpmsg/rpmsg_ns.ko
 kernel/drivers/rpmsg/virtio_rpmsg_bus.ko
 kernel/drivers/iio/adc/ti_am335x_adc.ko
+kernel/drivers/iio/buffer/industrialio-triggered-buffer.ko
+kernel/drivers/iio/common/st_sensors/st_sensors_i2c.ko
+kernel/drivers/iio/common/st_sensors/st_sensors_spi.ko
+kernel/drivers/iio/common/st_sensors/st_sensors.ko
+kernel/drivers/iio/humidity/hdc2010.ko
+kernel/drivers/iio/pressure/st_pressure.ko
+kernel/drivers/iio/pressure/st_pressure_i2c.ko
+kernel/drivers/iio/pressure/st_pressure_spi.ko
 kernel/drivers/mux/mux-mmio.ko
 kernel/drivers/counter/ti-eqep.ko
 kernel/drivers/counter/ti-ecap-capture.ko

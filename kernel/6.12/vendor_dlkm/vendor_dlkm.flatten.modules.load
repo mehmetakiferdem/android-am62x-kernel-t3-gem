@@ -61,6 +61,14 @@ ti_k3_r5_remoteproc.ko
 rpmsg_ns.ko
 virtio_rpmsg_bus.ko
 ti_am335x_adc.ko
+industrialio-triggered-buffer.ko
+st_sensors_i2c.ko
+st_sensors_spi.ko
+st_sensors.ko
+hdc2010.ko
+st_pressure.ko
+st_pressure_i2c.ko
+st_pressure_spi.ko
 mux-mmio.ko
 ti-eqep.ko
 ti-ecap-capture.ko
