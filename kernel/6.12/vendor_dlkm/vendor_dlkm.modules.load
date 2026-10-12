@@ -19,6 +19,7 @@ kernel/drivers/gpu/drm/bridge/tc358762.ko
 kernel/drivers/mfd/ti_am335x_tscadc.ko
 kernel/drivers/mfd/palmas.ko
 kernel/drivers/spi/spi-cadence-quadspi.ko
+kernel/drivers/spi/spi-omap2-mcspi.ko
 kernel/drivers/net/mdio/mdio-gpio.ko
 kernel/drivers/net/ethernet/ti/ti-cpsw-proxy-client.ko
 kernel/drivers/net/ethernet/ti/k3-cppi-desc-pool.ko

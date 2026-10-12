@@ -19,6 +19,7 @@ tc358762.ko
 ti_am335x_tscadc.ko
 palmas.ko
 spi-cadence-quadspi.ko
+spi-omap2-mcspi.ko
 mdio-gpio.ko
 ti-cpsw-proxy-client.ko
 k3-cppi-desc-pool.ko
